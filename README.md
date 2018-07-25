@@ -18,3 +18,5 @@ INSERT INTO `users` (`id`, `name`, `login`, `password`, `role`)
 VALUES
 	(1, 'Administration', '1', '1', 'admin');
 
+Есть 2 режима работы через обычные SQL или через hibernate, перекючается в config.properties 
+
