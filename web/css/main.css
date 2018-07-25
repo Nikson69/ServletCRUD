@@ -1,0 +1,25 @@
+
+#centr {
+    width: 250px;
+    position: absolute;
+    right: 50%;
+    height: 250px;
+    top: 60px;
+}
+.reg {
+    position: fixed;
+    top: 10px;
+    font-size: 0.83em;
+}
+.b1 {
+    background: #4df31c; /* Синий цвет фона */
+    color: #000000; /* Белые буквы */
+}
+.b2 {
+    background: #f4f118; /* Синий цвет фона */
+    color: #000000; /* Белые буквы */
+}
+.b3 {
+    background: #f30a16; /* Синий цвет фона */
+    color: #000000; /* Белые буквы */
+}
